@@ -1105,6 +1105,7 @@ header .container nav  li a:hover {
     transition: transform, background-color .3s;
     display: flex;
     margin-left: auto;
+    border: 1px solid;
 }
 
 .contact .content form input[type="submit"]:hover {
